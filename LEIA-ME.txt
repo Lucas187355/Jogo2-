@@ -1,0 +1,24 @@
+LENDA DO GRAMADO V5 — O CAMINHO DA LENDA
+Jogo offline, fictício, feito em HTML, CSS e JavaScript.
+
+INSTALAÇÃO
+1. Extraia o ZIP.
+2. Abra a pasta lenda_do_gramado_v5.
+3. Abra index.html no Chrome, Firefox ou Edge.
+4. Crie seu atleta ou continue o progresso salvo no mesmo navegador.
+
+NOVIDADES
+- Mundial de Clubes simplificado (campanha de quatro jogos e título por desempenho).
+- Calendário de adversários mais variados, sem enfrentar o próprio clube.
+- Notícias periódicas e eliminatórias de seleções simuladas.
+- Conversas com o treinador, potencial dinâmico, clássicos e moral.
+- Negociação de transferências com contrapropostas.
+- Histórico anual e cinco espaços de carreira, com exportação e importação JSON.
+- Mantém as funções anteriores de partidas narrativas (SEM campo 2D), treino,
+  estaduais, Brasileirão, premiações, vestiário, salários, aposentadoria e outros.
+
+IMPORTANTE
+As competições, calendários e classificações são simulações simplificadas.
+Os saves ficam no armazenamento local do navegador. Para evitar perdas,
+exporte seus saves regularmente.
+O jogo não tem vínculo com clubes ou ligas oficiais.
